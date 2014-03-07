@@ -1,5 +1,4 @@
 import os, pygame
-from pyparsing import *
 
 def data_parser(file_name, img_dict1):
 	'''Parse the .pack file to get the image infos
